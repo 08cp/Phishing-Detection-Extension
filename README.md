@@ -32,8 +32,8 @@ No Python, no server, no setup. Just load the extension:
 
 1. Clone the repo
    ```
-  https://github.com/08cp/Phishing-Detection-Extension.git
-   ```
+https://github.com/08cp/Phishing-Detection-Extension.git
+   ```sh
 2. Load the extension in Google Chrome
    - Open Google Chrome and navigate to `chrome://extensions/`.
    - Enable **Developer mode** (top-right toggle).
