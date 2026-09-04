@@ -1,0 +1,10 @@
+# Training only (export_model.py) — not needed to run the extension.
+# The extension itself is pure JavaScript with no runtime dependencies.
+pandas
+numpy
+scikit-learn
+
+# Notebook only (cyberguard_phishing_detection.ipynb).
+matplotlib
+seaborn
+joblib
