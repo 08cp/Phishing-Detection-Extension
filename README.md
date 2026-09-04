@@ -32,7 +32,7 @@ No Python, no server, no setup. Just load the extension:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/cprite/phishing-detection-ext.git
+  https://github.com/08cp/Phishing-Detection-Extension.git
    ```
 2. Load the extension in Google Chrome
    - Open Google Chrome and navigate to `chrome://extensions/`.
